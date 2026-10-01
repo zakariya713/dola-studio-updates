@@ -1,11 +1,11 @@
-# Dola studio downloads
+# ZDola Studio
 
-This repository contains Windows installers and signed update files only. The application source and owner signing keys are private.
+Created by Zakariya.
 
-[Download the latest Windows installer](https://github.com/zakariya713/dola-studio-updates/releases/latest)
+Download the Windows installer from [the latest release](https://github.com/zakariya713/dola-studio-updates/releases/latest). Python and Chromium are included.
 
-Install Dola studio, copy your Device ID from the activation screen and contact the owner for your activation key. A key is valid for its approved device until its stated expiry. Renew using Settings → Activate / renew.
+The installer requires a device-approved online activation key. Copy the Device ID from the activation screen and send it to the owner. Renewals keep the same key. An internet connection is required.
 
-Installed copies check for signed updates automatically. Updates wait until generation and account tools are idle. Settings and video files stay separate from the installation.
+Only installer binaries, a signed update manifest and checksums are published here. Source code, customer records, cookies and signing keys are private. Installed copies verify updates and wait until the queue is idle before installing.
 
-Python and the browser runtime are included; no separate Python installation is needed. Dola account cookies are supplied by each customer and are never included in a release.
+[WhatsApp channel](https://whatsapp.com/channel/0029VaCmvQHBPzjaupr9jo46) · [Facebook](https://www.facebook.com/profile.php?id=61571207221556)
